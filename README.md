@@ -1,1 +1,23 @@
-# LINEWorks-Scheduled-Messages-Bot
+# LINE Works Scheduled Messages Bot
+
+## 概要
+このリポジトリは、LINE WORKSでメッセージの予約送信を登録するためのBotを提供します。ユーザーは指定した日時に自動的にメッセージを送信することができます。
+
+## 機能
+- メッセージの予約送信
+- ユーザー入力の検証
+- 文字数カウンター
+
+## 使用技術
+- HTML
+- CSS
+- JavaScript
+
+## インストール方法
+リポジトリをクローンし、ローカル環境で開くだけで使用開始できます。
+
+## 貢献方法
+貢献を希望される方は、Pull Requestを送ってください。改善提案やバグ報告はIssueを通じてお願いします。
+
+## ライセンス
+[MIT License](LICENSE)
